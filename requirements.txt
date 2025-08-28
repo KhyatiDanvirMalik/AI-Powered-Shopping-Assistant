@@ -1,0 +1,9 @@
+Flask
+langchain
+langchain-community
+langchain-core
+google-generativeai
+chromadb
+pandas
+langchain-google-genai
+python-dotenv
